@@ -177,6 +177,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="SMS_MODENAME">Predefinito lista blocco</string>
     <string name="SMS_KEYWORDS">Parole lista blocco</string>
     <string name="SMS_ADRESS">Località lista blocco</string>
+    <string name="SMS_SERVICE">Servizio lista di blocco</string>
     <string name="Call_BLACKLIST">Chiamata lista blocco</string>
     <string name="Call_PREFIX">Prefisso lista blocco</string>
     <string name="Call_MODENAME">Predefinito lista blocco</string>
@@ -239,6 +240,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_antispam_title_anoy_sms">Messaggi da sconosciuti</string>
     <string name="st_antispam_title_anoy_incoming">Chiamate da sconosciuti</string>
     <string name="st_antispam_title_null_incoming">Chiamate private</string>
+    <string name="st_antispam_title_service_sms">Notifiche di servizio</string>
     <string name="st_antispam_mode_smart_sum">Applica il blocco per alcuni numeri sconosciuti</string>
     <string name="st_antispam_mode_blacklist_sum">Blocca messaggi e chiamate da numeri presenti nella lista blocco</string>
     <string name="st_antispam_mode_only_contacts_sum">Consenti solo chiamate e messaggi da numeri dai contatti</string>

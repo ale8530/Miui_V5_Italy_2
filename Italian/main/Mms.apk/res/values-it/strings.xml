@@ -438,6 +438,7 @@
     <string name="pref_collapse_sp_messages_summary">"Raccogli i messaggi del provider in un'unica lista"</string>
     <string name="sp_mark_as_read_title">Segna tutti come già letti</string>
     <string name="sp_mark_as_read_progress">Modifica stato messaggi in corso…</string>
+    <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">Messaggi di tutti i servizi</string>
     <string name="sp_category_bank">Messaggi dei servizi bancari</string>
     <string name="refill_now">Ricarica</string>
@@ -446,8 +447,7 @@
     <string name="toast_feedback_max">Possono essere inviati solo 3 feedback al giorno</string>
     <string name="toast_description_required">Il feedback deve essere inviato</string>
     <string name="pref_key_mx_feedback">Invia feedback</string>
-    <string name="pref_summary_mx_feedback">"Aiutaci a migliorare MIUI!
-Segnala bug ed invia feedback direttamente a Xiaomi."</string>
+    <string name="pref_summary_mx_feedback">"Aiutaci a migliorare MIUI! Segnala bug ed invia feedback direttamente a Xiaomi."</string>
     <string name="feedback_description_hint">Inserisci qui il tuo feedback</string>
     <string name="feedback_submit">Invia</string>
     <string name="confirm_send_mms">Uno dei destinatari include un indirizzo email. Questo messaggio verrà inviato come MMS, potrebbero quindi essere addebitati costi aggiuntivi dal tuo operatore.</string>
@@ -462,4 +462,10 @@ Segnala bug ed invia feedback direttamente a Xiaomi."</string>
     <string name="file_create_time">Data di creazione:</string>
     <string name="file_size">Dimensione:</string>
     <string name="file_title">Nome:</string>
+    <string name="festival_networking_desc">"Questa funzione richiede l'accesso ad Internet per funzionare correttamente."</string>
+    <string name="festival_continue">OK</string>
+    <string name="festival_never_remind">Non chiedere più</string>
+    <string name="pref_title_festival_networking">Notifica di connessione</string>
+    <string name="hms_add_image_progress_message">Elaborazione in corso. Attendere prego...</string>
+    <string name="view_hms_attachment_fail">Download immagine fallito.</string>
 </resources>

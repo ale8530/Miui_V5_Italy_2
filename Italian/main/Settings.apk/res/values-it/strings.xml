@@ -46,6 +46,7 @@
     <string name="optimize_large_file_header_left">Grandi file: %d</string>
     <string name="optimize_residual_header_left">Residui: %d</string>
     <string name="optimize_installed_apps_header_left">Download app:%d</string>
+    <string name="deepclean_cache_header_left">File cache: %d</string>
     <string name="optimize_cache_list_empty_content">Nessun file cache.</string>
     <string name="optimize_ad_list_empty_content">Nessun file pubblicitario.</string>
     <string name="optimize_apk_list_empty_content">Nessun pacchetto di installazione.</string>
@@ -213,9 +214,9 @@
     <string name="cache_data_sort_type_item_name">Nome</string>
     <string name="cache_data_sort_type_item_size">Dimensione</string>
     <string name="empty_content_size">Nessuno</string> 
-	<string name="opt_clean_garbage">%d Mb cancellati</string>
+    <string name="opt_clean_garbage">%d MB cancellati</string>
     <string name="opt_killed_process">%d processi chiusi</string>
-    <string name="opt_freed_ram">Liberati %dMb di memoria</string>
+    <string name="opt_freed_ram">Liberati %d MB di memoria</string>
     <string name="opt_virus_scan">Scansiona adesso</string>
     <string name="opt_disabled_autorun">Avvio automatico disattivato per %d applicazioni</string>
     <string name="opt_restore_perm">Ripristinati i permessi di privacy predefiniti per %d applicazioni</string>
@@ -3191,5 +3192,8 @@ puoi utilizzare anche le reti di altri utenti"</string>
     <string name="priority_storage_summary">Seleziona il tipo di memoria predefinita in cui salvare i dati utente</string>
     <string name="priority_storage_settings_summary">Se non viene rilevata una scheda SD, i dati utente verranno salvati automaticamente nella memoria interna del tuo dispositivo"</string>
     <string name="priority_storage_app_settings">I dati utente verranno salvati in %1$s</string>
-<string name="status_bar_toggle_arrangement">Tipo di comandi</string>
+    <string name="enable_mobile_data_when_opening_hotspot">Attivare anche la connessione dati mobile?</string>
+    <string name="provision_inputmethod_policy_description">Informativa sulla Privacy per la tastiera selezionata</string>
+    <string name="ime_privacy_policy">Informativa sulla Privacy della tastiera</string>
+    <string name="ime_privacy_policy_no_network">Nessuna connessione di rete. Puoi vedere il documento su %s</string>
 </resources>

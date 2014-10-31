@@ -532,7 +532,6 @@ CC: %4$s
     <string name="hide_elided">▼ Nascondi testo citato</string>
     <string name="message_invite_title">Invito calendario</string>
     <string name="message_invite_calendar_view">Mostra nel calendario</string>
-    <string name="message_invite_label_attending">Parteciperai?</string>
     <string name="message_invite_accept">Sì</string>
     <string name="message_invite_tentative">Forse</string>
     <string name="message_invite_decline">No</string>
@@ -680,7 +679,7 @@ Tocca "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="account_type_pop3">Pop3</string>
     <string name="account_type_imap">Imap</string>
     <string name="set_network">Imposta rete</string>
-    <string name="net_check_title">Errore di rete, verifica la tua rete</string>
+    <string name="network_not_available">Rete disconnessa o non funzionante, verificare</string>
     <string name="wait_for_sync_body_2">Il server Exchange ti contatterà tra 1-30 secondi. Conferma le impostazioni di sicurezza ed attiva. Fai attenzione agli avvisi di sistema.</string>
     <string name="device_activity_btn_str">Invio per attivare</string>
     <string name="device_not_activiey_lint1">Il gestore del dispositivo non è attivato</string>
@@ -754,10 +753,10 @@ Tocca "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="conversation_item_mark_read">Letta</string>
     <string name="conversation_item_mark_unread">Non letta</string>
     <string name="no_mails">Nessuna mail</string>
+    <string name="no_contacts">Vuoto</string>
     <string name="default_signature">Inviato tramite Xiaomi</string>
     <string name="account_name_toast">Nome già esistente, rinominare</string>
     <string name="mail_body_turncated">Questa email è troppo lunga per essere caricata, ne verrà mostrata solo una parte. Collegati dal tuo PC per leggerla per intero.</string>
-    <string name="conversation_list_net_check">Impossibile connettersi alla rete, controlla la configurazione di rete o riprova più tardi</string>
     <string name="contact_list_add_btn">Aggiungi</string>
     <string name="validation_failed_prompt">Validazione fallita, imposta il server %s</string>
     <string name="spaceChar">" "</string>
@@ -766,6 +765,7 @@ Tocca "<b>Sincronizza adesso</b> per sincronizzare una volta, o <b>Modifica le i
     <string name="pull_to_refresh">Trascina per aggiornare</string>
     <string name="release_to_refresh">Rilascia per aggiornare</string>
     <string name="refreshing">Aggiornamento…</string>
+    <string name="tryrefreshing">Aggiornamento…</string>
     <string name="not_updated_yet">Non ancora aggiornato</string>
     <string name="updated_at">Ultimo aggiornamento %1$s</string>
     <string name="updated_just_now">Appena aggiornato</string>
@@ -789,7 +789,6 @@ dell'allegato superano quelle massime del destinatario"</string>
     <string name="outbox_alert_description_provision_error">Causa: Errore nei dati forniti dal server durante la sincronizzazione della posta in uscita</string>
     <string name="outbox_alert_description_http_error">Causa: Errore HTTP error durante la sincronizzazione della posta in uscita</string>
     <string name="ser_resp_err_map_serclosed">Servizio chiuso</string>
-    <string name="ser_resp_err_map_pserr">Nome utente o password errati</string>
     <string name="ser_resp_err_map_nouser">Utente non esistente</string>
     <string name="ser_resp_err_map_or">Oppure</string>
     <string name="ser_resp_err_map_ssl">"Prova a scegliere 'SSL/TLS (Accetta tutti i certificati)' in 'Tipo di sicurezza'"</string>
@@ -806,7 +805,17 @@ dell'allegato superano quelle massime del destinatario"</string>
     <string name="chat_type_name">Chat</string>
     <string name="message_type_name">Messaggio</string>
     <string name="feedback_sent">Grazie per il tuo feedback.Continueremo a migliorare per voi</string>
-	<string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
+    <string name="no_address_email">noaddressemail@123.com</string>
+    <string name="loading_from_remote">Ricerca server...</string>
+    <string name="remote_search_result">%s email trovate sul server</string>
+    <string name="local_search_result">%s email trovate in locale</string>
+    <string name="load_from_remote">Continua a cercare sul server</string>
+    <string name="remote_search">Tutte le emailsul server</string>
+    <string name="perference_change_pw">Aggiorna password</string>
+    <string name="prefetched_got_it">OK</string>
+    <string name="perference_change_pw_notnull_tips">La password non può essere vuota</string>
+    <string name="perference_change_pw_ok_tips">Password aggiornata correttaemnte</string>
+    <string name="xiaomi_update_dialog_title">%1$s aggiornato!</string>
     <string name="xiaomi_update_dialog_message">"Introduzione della versione %1$s
 Dimensione: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Introduzione della versione %1$s

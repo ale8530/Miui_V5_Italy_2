@@ -336,6 +336,7 @@
     <string name="menu_item_about_label">Informazioni</string>
     <string name="about_title">Informazioni</string>
     <string name="about_app_name">MiPlayer</string>
+    <string name="ad_countdown">%s secondi di pubblicità rimanenti</string>
     <string name="prefix_countdown">Pubblicità rimanente:</string>
     <string name="suffix_countdown">secondi</string>
     <string name="ad_moredetail">Altri dettagli</string>
@@ -414,4 +415,5 @@ box o TV"</string>
     <string name="vp_closedialog">Conferma</string>
     <string name="vp_hint">Suggerimento</string>
     <string name="vp_maintitlearea">"Goditi l'alta definizione, la velocità di download, ci sono molti altri show disponibili! Download componenti HD, premi OK per entrare nella home"</string>
+    <string name="vp_toast_downloadapk">Download apk in background…</string>
 </resources>

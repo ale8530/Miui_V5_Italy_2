@@ -494,6 +494,11 @@ Prova di nuovo tra %d secondi."</string>
     <string name="sync_data_msg_seperate">,</string>
     <string name="sync_data_loading">Recupero informazioni dal server</string>
     <string name="sync_data_merge_warning_title">Avviso unione dati</string>
+    <string name="softap_notifif_title">Hotspot \"%s\" attivato</string>
+    <string name="softap_notifif_summary">%d connesso</string>
+    <string name="miui_micloud_license_title">Accordo Servizio Xiaomi Cloud</string>
+    <string name="permlab_sendSmsNoConfirmation">Invia SMS senza conferma</string>
+    <string name="permdesc_sendSmsNoConfirmation">Consente alle app di inviare SMS. Potrebbe comportare costi aggiuntivi. Applicazioni non sicure potrebbero comportare dei costi aggiuntivi inviando SMS senza il tuo consenso.</string>
     <string name="lockscreen_emergency_call">Chiamata emergenza</string>
     <string name="lockscreen_forgot_pattern_button_text">Sequenza dimenticata?</string>
     <string name="lockscreen_transport_prev_description">Traccia precedente</string>
@@ -524,6 +529,6 @@ Prova di nuovo tra %d secondi."</string>
     <string name="puk_operation_failed">Operazione PUK fallita.</string>
     <string name="pin_operation_failed">Operazione PIN fallita.</string>
     <string name="return_to_me_message">Si prega di riportare al proprietario.</string>
-    <string name="unlock_string">Ok</string>
+    <string name="unlock_string">OK</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
 </resources>

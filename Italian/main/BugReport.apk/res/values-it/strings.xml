@@ -81,5 +81,6 @@
     <string name="screen_lock">Lockscreen</string>
     <string name="systemui">Pannello delle notifiche</string>
     <string name="no_userbook_toast">File di istruzioni non presente</string>
+    <string name="hot_problem_empty">Vuoto</string>
     <string name="userbook_name">Guida utente</string>
 </resources>
