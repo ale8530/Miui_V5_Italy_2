@@ -40,4 +40,5 @@ Tocca %s per iniziare il download di questo file alla prossima connessione Wi-Fi
     <string name="button_cancel_download">Annulla</string>
     <string name="button_start_now">Inizia adesso</string>
     <string name="download_percent">%d%%</string>
+    <string name="size_unknown">Sconosciuto</string>
 </resources>

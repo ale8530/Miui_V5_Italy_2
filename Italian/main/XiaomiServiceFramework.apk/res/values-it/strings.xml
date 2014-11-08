@@ -312,6 +312,10 @@ Creando un account, fornisci il conseno agli elementi riportati sopra."</string>
     <string name="micloud_warn_low_sum">Stai utilizzando il 90% dello spazio di archiviazione.</string>
     <string name="micloud_warn_full_title">Lo spazio di archiviazione MiCloud è pieno!</string>
     <string name="micloud_warn_full_sum">I nuovi file non verranno sincronizzati con il tuo account MiCloud."</string>
+    <string name="micloud_storage_expires_soon_title">Il mio spazio Mi Cloud sta per scadere</string>
+    <string name="micloud_storage_expires_very_soon_title">Lo spazio Mi Cloud scadrà a breve</string>
+    <string name="micloud_storage_expires_auto_renewal_sum">"Devi rinnovare l'iscrizione."</string>
+    <string name="micloud_storage_expires_manually_renewal_sum">"Devi rinnovare l'iscrizione."</string>
     <string name="micloud_none">Nessuno</string>
     <string name="micloud_full_influence_dspt">"Tutte le foto, video, note ed applicazioni verranno salvate in MiCloud.
 
