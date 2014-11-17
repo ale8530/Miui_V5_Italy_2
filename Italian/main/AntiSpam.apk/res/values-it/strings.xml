@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="st_antispam_mode_smart_state">1111111</string>
-    <string name="st_antispam_mode_blacklist_state">1111211</string>
-    <string name="st_antispam_mode_only_contacts_state">1111000</string>
-    <string name="st_antispam_mode_only_whitelist_state">1100000</string>
-    <string name="st_antispam_mode_only_all_deny_state">1000000</string>
+   
     <string name="app_name">Guard</string>
     <string name="fw_blocked">Lista blocco</string>
     <string name="fw_blocked_count">"Bloccati "</string>
-    <string name="fw_blocked_count_call">%d chiamate</string>
-    <string name="fw_blocked_count_sms">" e %d messaggi"</string>
+    <string name="fw_blocked_join">" e "</string>
     <string name="tab_title">Lista blocco</string>
     <string name="tab_block_log">Registro</string>
     <string name="tab_blacklist">Lista blocco</string>
     <string name="tab_sms">Messaggi</string>
     <string name="tab_call">Chiamate</string>
-    <string name="bl_block_info" formatted="false">Bloccato: Numero %d, dettagli %d</string>
+    <string name="bl_block_info" formatted="false">Bloccato: %d | SMS: %d</string>
     <string name="bl_no_block_call">Tutte le chiamate bloccate verranno registrate qui</string>
     <string name="bl_no_block_sms">Tutti i messaggi bloccati verranno registrati qui</string>
     <string name="bl_no_blacklist">Blacklist vuota</string>
@@ -59,7 +54,7 @@
     <string name="dlg_bl_add_manual">Aggiungi manualmente numero alla blacklist</string>
     <string name="dlg_add_manual_ok">Aggiungi</string>
     <string name="dlg_add_manual_hint">Inserisci numero di telefono</string>
-    <string name="dlg_import_blacklist">Importazione nella blacklist</string>
+    <string name="dlg_import_blacklist">Importazione nella blacklist…</string>
     <string name="dlg_remove_blacklist_ing">Rimozione dalla blacklist…</string>
     <string name="dlg_import_whitelist">Inserimento nelle eccezioni…</string>
     <string name="dlg_remove_whitelist_ing">Rimozione dalle eccezioni…</string>
@@ -73,7 +68,7 @@
     <string name="toast_keyword_exist">Parola chiave: %s già esistente</string>
     <string name="toast_keyword_invalid">Parola non valida</string>
     <string name="dlg_antispam_mode_delete_title">Cancellla regole personalizzate</string>
-    <string name="dlg_antispam_mode_delete_message">Non puoi ripristinare le regole personalizzate per la lista blocco dopo la loro cancellazione."</string>
+    <string name="dlg_antispam_mode_delete_message">Non puoi ripristinare le regole personalizzate per la lista blocco dopo la loro cancellazione.</string>
     <string name="dlg_antispam_using_mode_delete_message">Cancellare il profilo della lista blocco che stai utilizzando e passare al profilo predefinito? Questa azione è irreversibile!</string>
     <string name="dlg_antispam_using_mode_international_delete_message">Cancellare il profilo della lista blocco che stai utilizzando e passare al profilo predefinito? Questa azione è irreversibile!</string>
     <string name="menu_clear_all_sms">Rimuovere tutti i messaggi bloccati</string>
@@ -230,10 +225,10 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_antispam_mode_smart">Blocco intelligente</string>
     <string name="st_antispam_mode_blacklist">Usa solo lista blocco</string>
     <string name="st_antispam_mode_only_contacts">Consenti solo contatti</string>
-    <string name="st_antispam_mode_only_whitelist">Consenti solo esclsioni</string>
+    <string name="st_antispam_mode_only_whitelist">Consenti solo esclusioni</string>
     <string name="st_antispam_mode_only_all_deny">Blocca tutto</string>
     <string name="st_antispam_mode_add_new">Aggiungi modalità</string>
-    <string name="st_antispam_title_whitelist">eccezioni</string>
+    <string name="st_antispam_title_whitelist">Eccezioni</string>
     <string name="st_antispam_title_contactandanoy_group">Contatti e sconosciuti</string>
     <string name="st_antispam_title_contact_sms">Messaggi da contatti</string>
     <string name="st_antispam_title_contact_incoming">Chiamate contatti</string>
