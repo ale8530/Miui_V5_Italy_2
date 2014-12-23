@@ -470,6 +470,7 @@ Consultalo e aggiornalo da qualsiasi posto.
     <string name="error_socket_timeout">Timeout di rete, riprovare più tardi</string>
     <string name="error_share_with_creator">Sei già membro di questo album</string>
     <string name="error_cloud_not_active">Album MiCloud non utilizzato</string>
+    <string name="error_share_not_support">Questa funzione non è ancora supportata</string>
     <string name="scan_barcode_to_join">Scansiona QR code per entrare in un album</string>
     <string name="where_is_barcode">"Dov'è il QR code?"</string>
     <string name="scan_barcode_guide">"Per aprire un album con QR code, tocca l'icona di condivisione nell'angolo in alto a destra."</string>

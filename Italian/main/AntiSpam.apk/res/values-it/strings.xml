@@ -204,6 +204,8 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="ad_block_hint">%d plugin</string>
     <string name="ad_single_block_hint">Bloccato</string>
     <string name="ad_permission_hint">"L'utilizzo di Ad Blocker potrebbe influire sul normale funzionamento di alcune applicazioni."</string>
+    <string name="ad_update_check_text">Aggiorna automaticamente</string>
+    <string name="ad_update_warn_info">Le informazioni di Ad Blocker verranno caricate sui server Xiaomi per poter aggiornare il database</string>
     <string name="sms_delete_hint">Eliminare tutti i messaggi bloccati inviati dai numeri selezionati?</string>
     <string name="call_delete_hint">Eliminare tutte le chiamate bloccate ricevute dai numeri selezionati?</string>
     <string name="backsound_set_hint">Impostare %s come sottofondo?</string>
@@ -272,6 +274,9 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="report_only">Seleziona almeno un messaggio</string>
     <string name="report_success">Segnalazione inviata</string>
     <string name="report_error">Grazie per la tua segnalazione, le informazioni verranno trasmese automaticamente appena una rete Wi-Fi sarà disponibile</string>
+    <string name="report_warning">"Segnalare %1$s SMS a Xiaomi? Questi messaggi ed i numeri da cui ovengono verranno inviati ai server Xiaomi per l'analisi. Ogni informazioni personale associata a questi messaggi resterà anonima."</string>
+    <string name="report_warning_title">Segnala SMS</string>
+    <string name="warning">Attenzione</string>
     <string name="mark_fraud">Truffa</string>
     <string name="mark_agent">Venditori</string>
     <string name="mark_sell">Telemarketing</string>

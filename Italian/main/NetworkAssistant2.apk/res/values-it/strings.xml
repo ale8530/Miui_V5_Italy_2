@@ -198,7 +198,7 @@ Vuoi aggiornare il limite uso dati locale?"</string>
     <string name="traffic_config_alert_body_leisure">"
 Il resoconto dei dati usati fornito dal tuo operatore mostra che hai ancora %1$s di traffico fuori picco residuo. Questo è diverso dal limite di %2$s che hai stabilito localmente"</string>
     <string name="traffic_config_alert_body_leisure_notset">"
-Your carrier's data usage accounting shows you have %1$s of off-peak usage remaining. You haven't set a limit."</string>
+Il conteggio dati del tuo operatore mostra che hai ancora %1$s di utilizzo fuori soglia. Non hai impostato un limite."</string>
     <string name="traffic_config_alert_setted">Limite dati impostato</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_unicom">China Unicom</string>
@@ -257,7 +257,7 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="traffic_saving_history_total_rate_unit">%</string>
     <string name="traffic_saving_history_total_money">Denaro</string>
     <string name="traffic_saving_history_total_money_unit" />
-    <string name="traffic_saving_history_total_month">"Hai risparmaito l'equivalente di traffico in questo mese"</string>
+    <string name="traffic_saving_history_total_month">"Hai risparmiato l'equivalente di traffico in questo mese"</string>
     <string name="traffic_saving_history_total_month_default">Risparmio mensile medio di traffico</string>
     <string name="traffic_saving_history_total_month_value">"Ascolto &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> canzoni / Chat &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> ore / Letti &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> articoli"</string>
     <string name="traffic_saving_history_total_month_value_default">"Ascolto &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> canzoni / Chat &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> Ore / Letti &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> articoli"</string>
@@ -302,4 +302,9 @@ Controlla il messaggio ricevuto dal tuo provider di servizi per maggiori informa
     <string name="roaming_start_body">Consenti alle applicazioni nella lista delle eccezioni di collegarsi al servizio dati in roaming internazionale.</string>
     <string name="dialog_app_roaming_title">Il roaming internazionale non è attivo per %1$s</string>
     <string name="dialog_app_roaming_message">Quando sei in roaming internazionale, solo le applicazioni nella lista eccezioni potranno utilizzare il servizio dati. %1$s non è stata aggiunta alla lista eccezioni. Vuoi aprire la lista adesso?"</string>
+    <string name="privacy_declare_dialog_title">Termini e Condizioni</string>
+    <string name="privacy_declare_dialog_message">"Utilizzando questo servizio, accetti i &lt;a href=http://max.oupeng.com/eula.html> Termini e condizioni&lt;/a> di Opera."</string>
+    <string name="privacy_prompt_traffic_adjust_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi per aggiornare i template di richiesta SMS e controllare se questa funzione è disponibile nella tua zona."</string>
+    <string name="privacy_prompt_traffic_purchase_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi er avere maggiori informazioni sulle opzioni dei dati di acquisto."</string>
+    <string name="privacy_prompt_purchase_history_message">"Il tuo numero di telefono ed i dettagli dell'operatore verranno inviati ai server Xiaomi per analizzare la tua cronologia di acquisto."</string>
 </resources>
